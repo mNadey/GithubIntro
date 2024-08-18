@@ -6,3 +6,5 @@ Strawberries
 Grapes
 Lemons
 Cereal
+Cucumber
+Lolipop
