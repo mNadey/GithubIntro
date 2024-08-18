@@ -5,3 +5,4 @@ Bananas
 Strawberries
 Grapes
 Lemons
+Cereal
